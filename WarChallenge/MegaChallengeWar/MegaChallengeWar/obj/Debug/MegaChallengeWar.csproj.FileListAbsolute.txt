@@ -1,0 +1,20 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+c:\users\bob tabor\documents\visual studio 2013\Projects\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
+C:\Users\Max Barsana\Desktop\WarChallenge\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+C:\Users\Max Barsana\Desktop\WarChallenge\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+C:\Users\Max Barsana\Desktop\WarChallenge\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+C:\Users\Max Barsana\Desktop\WarChallenge\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+C:\Users\Max Barsana\Desktop\WarChallenge\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\Max Barsana\Desktop\WarChallenge\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+C:\Users\Max Barsana\Desktop\WarChallenge\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
+C:\Users\Max Barsana\Desktop\My copy of War\WarChallenge\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+C:\Users\Max Barsana\Desktop\My copy of War\WarChallenge\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+C:\Users\Max Barsana\Desktop\My copy of War\WarChallenge\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+C:\Users\Max Barsana\Desktop\My copy of War\WarChallenge\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+C:\Users\Max Barsana\Desktop\My copy of War\WarChallenge\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\Max Barsana\Desktop\My copy of War\WarChallenge\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+C:\Users\Max Barsana\Desktop\My copy of War\WarChallenge\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
